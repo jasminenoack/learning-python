@@ -2,12 +2,13 @@
 
 This is practice code for learning python.
 
-# algorithms
+## algorithms
 
-*bubble sort
-*merge sort
+* bubble sort
+* merge sort
 
-# general practice
+## general practice
 
-*fizzbuzz
-*nth-fibonacci
+* fizzbuzz
+* nth-fibonacci
+* make change
